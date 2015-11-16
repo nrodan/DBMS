@@ -1,1 +1,14 @@
 E:\DBMS\DBMS\bin\Debug\DBMS.exe.config
+E:\DBMS\DBMS\bin\Debug\DBMS.exe
+E:\DBMS\DBMS\bin\Debug\DBMS.pdb
+E:\DBMS\DBMS\obj\Debug\MainWindow.baml
+E:\DBMS\DBMS\obj\Debug\MainWindow.g.cs
+E:\DBMS\DBMS\obj\Debug\App.g.cs
+E:\DBMS\DBMS\obj\Debug\DBMS_MarkupCompile.cache
+E:\DBMS\DBMS\obj\Debug\DBMS.g.resources
+E:\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+E:\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.Cache
+E:\DBMS\DBMS\obj\Debug\DBMS.exe
+E:\DBMS\DBMS\obj\Debug\DBMS.pdb
+E:\DBMS\DBMS\bin\Debug\DBMS.exe.CodeAnalysisLog.xml
+E:\DBMS\DBMS\bin\Debug\DBMS.exe.lastcodeanalysissucceeded
