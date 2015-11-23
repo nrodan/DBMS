@@ -12,3 +12,5 @@ E:\DBMS\DBMS\obj\Debug\DBMS.exe
 E:\DBMS\DBMS\obj\Debug\DBMS.pdb
 E:\DBMS\DBMS\bin\Debug\DBMS.exe.CodeAnalysisLog.xml
 E:\DBMS\DBMS\bin\Debug\DBMS.exe.lastcodeanalysissucceeded
+E:\DBMS\DBMS\bin\Debug\StyleCop.CSharp.dll
+E:\DBMS\DBMS\bin\Debug\StyleCop.dll
