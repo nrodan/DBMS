@@ -1,5 +1,9 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="-1577721047">
+    <configuration>
+    </configuration>
+  </project>
   <project key="-1822764716">
     <configuration>CODE_ANALYSIS;DEBUG;TRACE</configuration>
   </project>
@@ -7,7 +11,7 @@
     <timestamps>
       <styleCop>2015.11.17 11:11:52.966</styleCop>
       <settingsFile>2015.11.17 11:11:52.864</settingsFile>
-      <sourceFile>2015.11.16 22:47:19.835</sourceFile>
+      <sourceFile>2015.11.23 23:52:40.086</sourceFile>
       <parser>2015.11.17 11:11:52.966</parser>
       <StyleCop.CSharp.DocumentationRules>2015.11.17 11:11:52.966</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1762040540</StyleCop.CSharp.DocumentationRules.FilesHashCode>
